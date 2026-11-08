@@ -1,4 +1,4 @@
-# Hi, I'm Aisam Ulhaq 👋
+# Hi, I'm Aisam 👋
 
 **Machine Learning & Python Developer** focused on applied deep learning, computer vision, and AI-driven backend systems.
 
